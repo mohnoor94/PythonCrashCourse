@@ -2,6 +2,7 @@
 A Python crash course by ['Mohammad Noor' AbuKhleif](http://www.abukhleif.com/).
 
 ## CorePythonCourse
+Are you looking for a complete/full course on Python?
 There is a complete version of this Python course which include much more details.
 You can access the CorePythonCourse [here](https://github.com/mohnoor94/CorePythonCourse).
 
